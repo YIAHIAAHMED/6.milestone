@@ -1,0 +1,5 @@
+1. reactJs is Javascript library for building user interfaces.
+2. It is declarative, efficient and flexible
+3. it is fast and component based
+4. it was initially developed and maintained by facebook
+5. it is signs first 2010.
