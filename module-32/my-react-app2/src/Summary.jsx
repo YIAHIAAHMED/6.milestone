@@ -7,6 +7,10 @@
 /*
 server site theke loading
 1. api
+
+1.just write a simple fetch with json conversion
+2.wrap the data loading component under suspense
+
 */
 
 // fetch('https://jsonplaceholder.typecode.com/users')
