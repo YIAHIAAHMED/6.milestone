@@ -13,7 +13,7 @@ export default function Batsman(){
         setRuns(updatedRuns)
     }
     const handleSix = () => {
-        const updatedRuns = runs + 12;
+        const updatedRuns = runs + 6;
         setRuns(updatedRuns)
     }
 
