@@ -12,3 +12,11 @@ const Country = ({country}) => {
 };
 
 export default Country;
+
+
+// css add korar niyon react e 
+// 1. inline css (Style Object)
+// 2. 
+
+
+
