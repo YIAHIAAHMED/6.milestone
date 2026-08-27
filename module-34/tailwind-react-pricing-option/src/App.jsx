@@ -8,7 +8,7 @@ function App() {
     <>
 
 
-      <h1 className='text-7x1 '>Get started</h1>
+      <h1 className='text-7xl underline'>Get started</h1>
 
     </>
   )
