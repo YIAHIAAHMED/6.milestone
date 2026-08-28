@@ -1,14 +1,22 @@
 
 import './App.css'
+import DaisyUi from './components/DaisyNav/DaisyNav'
+import Navbar from './components/Navbar/Navbar'
 
 function App() {
 
 
   return (
     <>
+      <header>
+        <DaisyUi></DaisyUi>
+        <Navbar></Navbar>
+      </header>
 
 
-      <h1 className='text-7xl underline'>Get started</h1>
+      <main>
+
+      </main>
 
     </>
   )
