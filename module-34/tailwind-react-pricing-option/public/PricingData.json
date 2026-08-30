@@ -1,0 +1,39 @@
+[
+  {
+    "id": 1,
+    "name": "Basic",
+    "price": 500,
+    "duration": "1 Month",
+    "features": [
+      "Gym Access",
+      "Basic Workout Plan",
+      "Locker Facility"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Standard",
+    "price": 1000,
+    "duration": "1 Month",
+    "features": [
+      "Gym Access",
+      "Personal Workout Plan",
+      "Locker Facility",
+      "Cardio Training"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Premium",
+    "price": 1500,
+    "duration": "1 Month",
+    "features": [
+      "Unlimited Gym Access",
+      "Personal Trainer",
+      "Personal Workout Plan",
+      "Locker Facility",
+      "Cardio Training",
+      "Diet Plan"
+    ]
+  }
+]

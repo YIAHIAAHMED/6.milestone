@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "student": "Rahim",
+    "math": 85,
+    "physics": 78,
+    "chemistry": 90
+  },
+  {
+    "id": 2,
+    "student": "Karim",
+    "math": 92,
+    "physics": 88,
+    "chemistry": 84
+  },
+  {
+    "id": 3,
+    "student": "Hasan",
+    "math": 76,
+    "physics": 95,
+    "chemistry": 82
+  }
+]
