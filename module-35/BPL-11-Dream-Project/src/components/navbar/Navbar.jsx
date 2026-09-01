@@ -8,7 +8,7 @@ const Navbar = () => {
                 <a className="btn btn-ghost text-xl">daisyUI</a>
             </div>
             <div className="flex-none">
-                <button className="btn btn-square btn-ghost">
+                <button className="flex justify-between items-center gap-2 font-bold text-xl">
                     0 coins
                     <img src={dollar} alt='dollar'/>
                 </button>
